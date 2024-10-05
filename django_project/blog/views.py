@@ -5,12 +5,14 @@ posts = [
     {
         "author": "alice",
         "date_posted": "October 5th, 2024",
-        "title": "Lorem Ipsum"
+        "title": "Lorem Ipsum",
+        "content": "content"
     },
     {
         "author": "bob",
         "date_posted": "September 5th, 2024",
-        "title": "Lorem Ipsum"
+        "title": "Lorem Ipsum",
+        "content": "content"
     }
 ]
 # Create your views here.
